@@ -1,0 +1,42 @@
+body{
+    background-color: #252525;
+    font-family: "Comic Relief", system-ui;
+    margin-top: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+    scrollbar-color: pink;
+}
+.navigation-link{
+    border: 2px solid transparent;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.navigation-link:hover{
+    text-decoration: none;
+    border-bottom: 2px solid #f5ba09;
+    transition: 1s ease;
+}
+
+.test{
+    padding: 20px;
+    border: 2px solid black;
+    
+}
+
+.about{
+    background: #313552;
+    border-radius: 0.5rem;
+
+}
+
+
+.card{
+    border-bottom: 8px solid #f5ba09;
+
+}
+
+
+
